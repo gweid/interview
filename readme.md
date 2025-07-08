@@ -26,6 +26,8 @@
 
 - [react面试题](./react面试题.md)
 
+- [小程序](./小程序.md)
+
 - [webpack面试题](./webpack面试题.md)
 
 - [vite面试题](./vite面试题.md)
